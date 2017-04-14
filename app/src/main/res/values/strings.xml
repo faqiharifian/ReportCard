@@ -1,3 +1,25 @@
 <resources>
-    <string name="app_name">ReportCard</string>
+    <string name="app_name">Report Card</string>
+    <string name="report_activity_name">Report</string>
+
+    <string name="input_header_student">Student</string>
+    <string name="input_student_nim">NIM</string>
+    <string name="input_student_name">Name</string>
+
+    <string name="input_header_course">Course</string>
+    <string name="input_course_code">Code</string>
+    <string name="input_course_name">Name</string>
+    <string name="input_course_sks">SKS</string>
+
+    <string name="input_header_score">Score</string>
+    <string name="input_score_score">Score</string>
+    <string-array name="scores">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+    </string-array>
+
+    <string name="button_submit">Submit</string>
 </resources>
